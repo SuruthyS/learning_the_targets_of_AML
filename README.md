@@ -1,5 +1,6 @@
 # learning_the_targets_of_AML
 
+This repository consists of the data and code used in the manuscript "Learning the Therapeutic Targets of Acute Myeloid Leukemia through Multiscale Human Interactome Network and Community Analysis"
 
 ## Folders
 
