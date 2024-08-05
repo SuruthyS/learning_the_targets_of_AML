@@ -20,7 +20,7 @@ Contains the results of the visitation frequency anlaysis of the possible candid
 ## Code
 
 ### Detecting_Proteins_and Biological_Functions_in_Prioritized_Communities
-Code that is used to anzlyze the results from CoDA (https://github.com/snap-stanford/snap/tree/master/examples/coda) and CRank (https://github.com/mims-harvard/crank) to count the frequency of the top proteins and biological functions of the candidates in the highly prioritized communities in the multoscale interactome network (CRank>80%).
+Code that is used to anzlyze the results from CoDA (https://github.com/snap-stanford/snap/tree/master/examples/coda) and CRank (https://github.com/mims-harvard/crank) to count the frequency of the top proteins and biological functions of the candidates in the highly prioritized communities in the multioscale interactome network (CRank>80%).
 
 ### using_the_multiscale_interactome
 Code that is used to run the multiscale interactome network (https://github.com/snap-stanford/multiscale-interactome) and to analyze the resutls in the context of AML.
