@@ -15,6 +15,7 @@ Network files (.graphml) that were constructed using Cytoscape (https://www.ncbi
 ### top_4
 Data of diffusion profiles and treatment importance values that are formatted for use in generating networks in Cytoscape.
 ### vist_freq_drug_disease
+Contains the results of the visitation frequency anlaysis of the possible candidates and AML from the multiscale interactome network which is preformed in "using_the_multiscale_interactome".
 
 ## Code
 
