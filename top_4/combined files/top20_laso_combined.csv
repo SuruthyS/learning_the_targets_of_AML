@@ -1,0 +1,21 @@
+nodes,diffin_laso,names,TI_laso,nodes,diffin_laso,TI_laso
+2099,0.066345181,ESR1,4.23E-05,GO:0045944,0.004230884,
+2100,0.065710906,ESR2,2.97E-05,GO:0045893,0.01054338,
+1269,0.065413767,CNR2,9.59E-05,GO:0045892,0.00175553,
+2769,0.02648187,GNA15,1.40E-05,GO:0000122,0.010793363,
+GO:0007204,0.014649053,positive regulation of cytosolic calcium ion concentration,,4609,0.000254569,4.88839E-07
+GO:0000122,0.010793363,negative regulation of transcription by RNA polymerase II,,864,1.64E-05,3.04047E-08
+GO:0045893,0.01054338,"positive regulation of transcription, DNA-templated",,6774,0.000198486,3.56074E-07
+GO:0051091,0.009911804,positive regulation of DNA binding transcription factor activity,,3417,6.14E-06,1.07459E-08
+GO:0045944,0.004230884,positive regulation of transcription by RNA polymerase II,,302,8.11E-05,1.41779E-07
+GO:0006366,0.003069155,transcription by RNA polymerase II,,2623,7.92E-05,1.37341E-07
+GO:0051480,0.002642601,regulation of cytosolic calcium ion concentration,,4869,0.000160318,2.73029E-07
+GO:0071392,0.002127949,cellular response to estradiol stimulus,,6688,4.59E-05,7.73275E-08
+GO:0010524,0.001924488,positive regulation of calcium ion transport into cytosol,,11168,4.26E-05,7.14423E-08
+GO:0010629,0.001850732,negative regulation of gene expression,,2624,4.85E-05,8.12555E-08
+GO:0060402,0.001843642,calcium ion transport into cytosol,,3845,7.83E-05,1.3044E-07
+GO:0043433,0.001830724,negative regulation of DNA binding transcription factor activity,,64324,5.05E-05,8.3352E-08
+GO:0051482,0.001784356,positive regulation of cytosolic calcium ion concentration involved in phospholipase C-activating G-protein coupled signaling pathway,,2672,2.25E-05,3.68006E-08
+GO:0045899,0.001760857,positive regulation of RNA polymerase II transcriptional preinitiation complex assembly,,3315,7.62E-05,1.24743E-07
+GO:0045892,0.00175553,"negative regulation of transcription, DNA-templated",,10919,5.76E-05,9.42165E-08
+GO:1903799,0.001745156,negative regulation of production of miRNAs involved in gene silencing by miRNA,,861,3.73E-05,6.05355E-08

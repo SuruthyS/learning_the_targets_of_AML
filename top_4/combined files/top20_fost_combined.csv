@@ -1,0 +1,21 @@
+nodes,diffin_fost,names,TI_fost,nodes,diffin_fost,TI_fost
+GO:0006468,0.010637031,protein phosphorylation,,GO:0045944,0.002256317,
+GO:0046777,0.004946767,protein autophosphorylation,,GO:0045893,0.001709234,
+GO:0035556,0.002654379,intracellular signal transduction,,GO:0045892,0.001093255,
+GO:0045944,0.002256317,positive regulation of transcription by RNA polymerase II,,GO:0000122,0.001314341,
+GO:0018108,0.001741876,peptidyl-tyrosine phosphorylation,,4609,0.000378069,7.26E-07
+GO:0045893,0.001709234,"positive regulation of transcription, DNA-templated",,864,3.04E-05,5.63E-08
+GO:0016310,0.001574909,phosphorylation,,6774,0.000236383,4.24E-07
+3320,0.001490627,HSP90AA1,3.56E-07,3417,1.06E-05,1.85E-08
+GO:0043066,0.001441611,negative regulation of apoptotic process,,302,0.000104949,1.83E-07
+GO:0018105,0.001426624,peptidyl-serine phosphorylation,,2623,6.55E-05,1.14E-07
+GO:0006464,0.00133111,cellular protein modification process,,4869,0.000201655,3.43E-07
+GO:0000122,0.001314341,negative regulation of transcription by RNA polymerase II,,6688,2.67E-05,4.50E-08
+1956,0.001187445,EGFR,4.02E-07,11168,2.07E-05,3.46E-08
+GO:0043484,0.001151473,regulation of RNA splicing,,2624,5.25E-05,8.79E-08
+4750,0.001117282,NEK1,1.84E-08,3845,0.000218386,3.64E-07
+GO:0045892,0.001093255,"negative regulation of transcription, DNA-templated",,64324,3.36E-05,5.55E-08
+GO:0010628,0.001083184,positive regulation of gene expression,,2672,2.12E-05,3.47E-08
+120892,0.001076671,LRRK2,2.67E-07,3315,0.00016834,2.75E-07
+4914,0.001073091,NTRK1,4.57E-07,10919,2.72E-05,4.44E-08
+351,0.001026486,APP,8.07E-07,861,5.00E-05,8.11E-08
