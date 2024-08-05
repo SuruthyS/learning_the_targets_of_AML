@@ -13,6 +13,7 @@ Basic images of the networks, tables, and supplementary tables that are presente
 ### networks
 Network files (.graphml) that were constructed using Cytoscape (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403769/) fo the selected candidates.
 ### top_4
+Data of diffusion profiles and treatment importance values that are formatted for use in generating networks in Cytoscape.
 ### vist_freq_drug_disease
 
 ## Code
