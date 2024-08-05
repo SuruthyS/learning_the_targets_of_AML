@@ -2,6 +2,7 @@
 
 
 ## Folders
+
 ### Baseline_Metrics_Results
 ### communities
 ### images
@@ -11,5 +12,6 @@
 
 ## Code
 
-Detecting_Proteins_and Biological_Functions_in_Prioritized_Communities
+###Detecting_Proteins_and Biological_Functions_in_Prioritized_Communities
+###using_the_multiscale_interactome
 
