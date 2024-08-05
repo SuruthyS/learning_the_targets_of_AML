@@ -7,7 +7,7 @@ This repository consists of the data and code used in the manuscript "Learning t
 ### Baseline_Metrics_Results
 Results from using four baseline metrics (L2 norm, L1 norm, Canberra distance, Cosine similarity, and Correlation distance) and the diffusion profiles of the drugs and acute myeloid leukemia (AML).
 ### communities
-Data from from running CoDA and CRank is included in this folder with the data generated fron its analysis in "Detecting_Proteins_and Biological_Functions_in_Prioritized_Communities".
+Data from running CoDA and CRank is included in this folder with the data generated from its analysis in "Detecting_Proteins_and Biological_Functions_in_Prioritized_Communities".
 ### images
 Basic images of the networks, tables, and supplementary tables that are presented in the manuscript.
 ### networks
