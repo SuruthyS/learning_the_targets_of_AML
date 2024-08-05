@@ -11,7 +11,7 @@ Data from running CoDA and CRank is included in this folder with the data genera
 ### images
 Basic images of the networks, tables, and supplementary tables that are presented in the manuscript.
 ### networks
-Network files (.graphml) that were constructed using Cytoscape (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403769/) fo the selected candidates.
+Network files (.graphml) that were generated in "using_the_multiscale_interactome" and used in Cytoscape (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC403769/) to create imformative networks for the candidates.
 ### top_4
 Data of diffusion profiles and treatment importance values that are formatted for use in generating networks in Cytoscape.
 ### vist_freq_drug_disease
@@ -23,5 +23,5 @@ Contains the results of the visitation frequency anlaysis of the possible candid
 Code that is used to anzlyze the results from CoDA (https://github.com/snap-stanford/snap/tree/master/examples/coda) and CRank (https://github.com/mims-harvard/crank) to count the frequency of the top proteins and biological functions of the candidates in the highly prioritized communities in the multoscale interactome network (CRank>80%).
 
 ### using_the_multiscale_interactome
-Code that is used to run the multiscale interactome network (https://github.com/snap-stanford/multiscale-interactome) and analyzing the resutls for AML.
+Code that is used to run the multiscale interactome network (https://github.com/snap-stanford/multiscale-interactome) and to analyze the resutls in the context of AML.
 
