@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="node" attr.name="type" attr.type="string"/>
+<graph edgedefault="directed"><node id="864">
+  <data key="d0">protein</data>
+</node>
+<node id="333">
+  <data key="d0">protein</data>
+</node>
+<node id="6688">
+  <data key="d0">protein</data>
+</node>
+<node id="DB01593">
+  <data key="d0">drug</data>
+</node>
+<node id="GO:0045944">
+  <data key="d0">biological_function</data>
+</node>
+<node id="3827">
+  <data key="d0">protein</data>
+</node>
+<node id="GO:0000122">
+  <data key="d0">biological_function</data>
+</node>
+<node id="351">
+  <data key="d0">protein</data>
+</node>
+<node id="3507">
+  <data key="d0">protein</data>
+</node>
+<node id="GO:0045893">
+  <data key="d0">biological_function</data>
+</node>
+<node id="2623">
+  <data key="d0">protein</data>
+</node>
+<node id="4869">
+  <data key="d0">protein</data>
+</node>
+<node id="GO:0006956">
+  <data key="d0">biological_function</data>
+</node>
+<node id="718">
+  <data key="d0">protein</data>
+</node>
+<node id="731">
+  <data key="d0">protein</data>
+</node>
+<node id="GO:0045892">
+  <data key="d0">biological_function</data>
+</node>
+<node id="64324">
+  <data key="d0">protein</data>
+</node>
+<node id="302">
+  <data key="d0">protein</data>
+</node>
+<node id="733">
+  <data key="d0">protein</data>
+</node>
+<node id="7157">
+  <data key="d0">protein</data>
+</node>
+<node id="4609">
+  <data key="d0">protein</data>
+</node>
+<node id="GO:0018149">
+  <data key="d0">biological_function</data>
+</node>
+<node id="2">
+  <data key="d0">protein</data>
+</node>
+<node id="861">
+  <data key="d0">protein</data>
+</node>
+<node id="2672">
+  <data key="d0">protein</data>
+</node>
+<node id="1369">
+  <data key="d0">protein</data>
+</node>
+<node id="C0023467">
+  <data key="d0">indication</data>
+</node>
+<node id="2335">
+  <data key="d0">protein</data>
+</node>
+<node id="1191">
+  <data key="d0">protein</data>
+</node>
+<node id="3845">
+  <data key="d0">protein</data>
+</node>
+<node id="10919">
+  <data key="d0">protein</data>
+</node>
+<node id="727">
+  <data key="d0">protein</data>
+</node>
+<node id="732">
+  <data key="d0">protein</data>
+</node>
+<node id="388697">
+  <data key="d0">protein</data>
+</node>
+<node id="2624">
+  <data key="d0">protein</data>
+</node>
+<node id="3417">
+  <data key="d0">protein</data>
+</node>
+<node id="3315">
+  <data key="d0">protein</data>
+</node>
+<node id="11168">
+  <data key="d0">protein</data>
+</node>
+<node id="6774">
+  <data key="d0">protein</data>
+</node>
+<node id="335">
+  <data key="d0">protein</data>
+</node>
+<node id="348">
+  <data key="d0">protein</data>
+</node>
+<edge source="864" target="C0023467"/>
+<edge source="864" target="7157"/>
+<edge source="864" target="GO:0045893"/>
+<edge source="333" target="DB01593"/>
+<edge source="333" target="351"/>
+<edge source="6688" target="C0023467"/>
+<edge source="6688" target="2624"/>
+<edge source="6688" target="2623"/>
+<edge source="6688" target="2672"/>
+<edge source="6688" target="861"/>
+<edge source="6688" target="GO:0045892"/>
+<edge source="6688" target="GO:0045893"/>
+<edge source="DB01593" target="351"/>
+<edge source="DB01593" target="333"/>
+<edge source="DB01593" target="1191"/>
+<edge source="DB01593" target="7157"/>
+<edge source="DB01593" target="3507"/>
+<edge source="DB01593" target="388697"/>
+<edge source="DB01593" target="3827"/>
+<edge source="DB01593" target="2"/>
+<edge source="DB01593" target="348"/>
+<edge source="DB01593" target="2335"/>
+<edge source="DB01593" target="335"/>
+<edge source="DB01593" target="718"/>
+<edge source="DB01593" target="727"/>
+<edge source="DB01593" target="732"/>
+<edge source="DB01593" target="731"/>
+<edge source="DB01593" target="733"/>
+<edge source="DB01593" target="1369"/>
+<edge source="GO:0045944" target="351"/>
+<edge source="GO:0045944" target="861"/>
+<edge source="GO:0045944" target="2623"/>
+<edge source="GO:0045944" target="2624"/>
+<edge source="GO:0045944" target="4609"/>
+<edge source="GO:0045944" target="4869"/>
+<edge source="GO:0045944" target="6774"/>
+<edge source="GO:0045944" target="7157"/>
+<edge source="GO:0045944" target="GO:0045893"/>
+<edge source="3827" target="DB01593"/>
+<edge source="3827" target="351"/>
+<edge source="3827" target="1369"/>
+<edge source="GO:0000122" target="2623"/>
+<edge source="GO:0000122" target="2672"/>
+<edge source="GO:0000122" target="4609"/>
+<edge source="GO:0000122" target="10919"/>
+<edge source="GO:0000122" target="GO:0045892"/>
+<edge source="351" target="DB01593"/>
+<edge source="351" target="1191"/>
+<edge source="351" target="4869"/>
+<edge source="351" target="3845"/>
+<edge source="351" target="3507"/>
+<edge source="351" target="335"/>
+<edge source="351" target="302"/>
+<edge source="351" target="2"/>
+<edge source="351" target="4609"/>
+<edge source="351" target="348"/>
+<edge source="351" target="3827"/>
+<edge source="351" target="333"/>
+<edge source="351" target="GO:0045944"/>
+<edge source="3507" target="DB01593"/>
+<edge source="3507" target="351"/>
+<edge source="3507" target="2335"/>
+<edge source="3507" target="861"/>
+<edge source="3507" target="718"/>
+<edge source="3507" target="335"/>
+<edge source="GO:0045893" target="861"/>
+<edge source="GO:0045893" target="864"/>
+<edge source="GO:0045893" target="2623"/>
+<edge source="GO:0045893" target="4609"/>
+<edge source="GO:0045893" target="4869"/>
+<edge source="GO:0045893" target="6688"/>
+<edge source="GO:0045893" target="6774"/>
+<edge source="GO:0045893" target="7157"/>
+<edge source="GO:0045893" target="64324"/>
+<edge source="GO:0045893" target="GO:0045944"/>
+<edge source="2623" target="C0023467"/>
+<edge source="2623" target="6774"/>
+<edge source="2623" target="3315"/>
+<edge source="2623" target="6688"/>
+<edge source="2623" target="GO:0000122"/>
+<edge source="2623" target="GO:0045893"/>
+<edge source="2623" target="GO:0045944"/>
+<edge source="4869" target="C0023467"/>
+<edge source="4869" target="351"/>
+<edge source="4869" target="7157"/>
+<edge source="4869" target="3315"/>
+<edge source="4869" target="4609"/>
+<edge source="4869" target="2335"/>
+<edge source="4869" target="302"/>
+<edge source="4869" target="11168"/>
+<edge source="4869" target="GO:0045893"/>
+<edge source="4869" target="GO:0045944"/>
+<edge source="GO:0006956" target="718"/>
+<edge source="GO:0006956" target="731"/>
+<edge source="718" target="DB01593"/>
+<edge source="718" target="3507"/>
+<edge source="718" target="2335"/>
+<edge source="718" target="727"/>
+<edge source="718" target="1369"/>
+<edge source="718" target="GO:0006956"/>
+<edge source="731" target="DB01593"/>
+<edge source="731" target="732"/>
+<edge source="731" target="733"/>
+<edge source="731" target="GO:0006956"/>
+<edge source="GO:0045892" target="2672"/>
+<edge source="GO:0045892" target="6688"/>
+<edge source="GO:0045892" target="7157"/>
+<edge source="GO:0045892" target="GO:0000122"/>
+<edge source="64324" target="C0023467"/>
+<edge source="64324" target="GO:0045893"/>
+<edge source="302" target="C0023467"/>
+<edge source="302" target="6774"/>
+<edge source="302" target="351"/>
+<edge source="302" target="7157"/>
+<edge source="302" target="4609"/>
+<edge source="302" target="4869"/>
+<edge source="302" target="2335"/>
+<edge source="733" target="DB01593"/>
+<edge source="733" target="732"/>
+<edge source="733" target="731"/>
+<edge source="7157" target="DB01593"/>
+<edge source="7157" target="3315"/>
+<edge source="7157" target="4869"/>
+<edge source="7157" target="10919"/>
+<edge source="7157" target="4609"/>
+<edge source="7157" target="302"/>
+<edge source="7157" target="864"/>
+<edge source="7157" target="GO:0045892"/>
+<edge source="7157" target="GO:0045893"/>
+<edge source="7157" target="GO:0045944"/>
+<edge source="4609" target="C0023467"/>
+<edge source="4609" target="351"/>
+<edge source="4609" target="7157"/>
+<edge source="4609" target="3315"/>
+<edge source="4609" target="861"/>
+<edge source="4609" target="302"/>
+<edge source="4609" target="2335"/>
+<edge source="4609" target="4869"/>
+<edge source="4609" target="GO:0000122"/>
+<edge source="4609" target="GO:0045893"/>
+<edge source="4609" target="GO:0045944"/>
+<edge source="GO:0018149" target="2335"/>
+<edge source="2" target="DB01593"/>
+<edge source="2" target="351"/>
+<edge source="2" target="348"/>
+<edge source="861" target="C0023467"/>
+<edge source="861" target="3507"/>
+<edge source="861" target="4609"/>
+<edge source="861" target="6688"/>
+<edge source="861" target="11168"/>
+<edge source="861" target="GO:0045893"/>
+<edge source="861" target="GO:0045944"/>
+<edge source="2672" target="C0023467"/>
+<edge source="2672" target="10919"/>
+<edge source="2672" target="6688"/>
+<edge source="2672" target="GO:0000122"/>
+<edge source="2672" target="GO:0045892"/>
+<edge source="1369" target="DB01593"/>
+<edge source="1369" target="3827"/>
+<edge source="1369" target="718"/>
+<edge source="1369" target="727"/>
+<edge source="C0023467" target="2624"/>
+<edge source="C0023467" target="6774"/>
+<edge source="C0023467" target="3845"/>
+<edge source="C0023467" target="2623"/>
+<edge source="C0023467" target="3315"/>
+<edge source="C0023467" target="2672"/>
+<edge source="C0023467" target="64324"/>
+<edge source="C0023467" target="10919"/>
+<edge source="C0023467" target="4609"/>
+<edge source="C0023467" target="4869"/>
+<edge source="C0023467" target="302"/>
+<edge source="C0023467" target="864"/>
+<edge source="C0023467" target="861"/>
+<edge source="C0023467" target="6688"/>
+<edge source="C0023467" target="3417"/>
+<edge source="C0023467" target="11168"/>
+<edge source="2335" target="DB01593"/>
+<edge source="2335" target="3315"/>
+<edge source="2335" target="3507"/>
+<edge source="2335" target="4609"/>
+<edge source="2335" target="4869"/>
+<edge source="2335" target="302"/>
+<edge source="2335" target="335"/>
+<edge source="2335" target="718"/>
+<edge source="2335" target="GO:0018149"/>
+<edge source="1191" target="DB01593"/>
+<edge source="1191" target="351"/>
+<edge source="1191" target="732"/>
+<edge source="1191" target="335"/>
+<edge source="3845" target="C0023467"/>
+<edge source="3845" target="351"/>
+<edge source="3845" target="3315"/>
+<edge source="10919" target="C0023467"/>
+<edge source="10919" target="7157"/>
+<edge source="10919" target="2672"/>
+<edge source="10919" target="GO:0000122"/>
+<edge source="727" target="DB01593"/>
+<edge source="727" target="718"/>
+<edge source="727" target="732"/>
+<edge source="727" target="1369"/>
+<edge source="732" target="DB01593"/>
+<edge source="732" target="1191"/>
+<edge source="732" target="727"/>
+<edge source="732" target="733"/>
+<edge source="732" target="731"/>
+<edge source="388697" target="DB01593"/>
+<edge source="2624" target="C0023467"/>
+<edge source="2624" target="6688"/>
+<edge source="2624" target="6774"/>
+<edge source="2624" target="GO:0045944"/>
+<edge source="3417" target="C0023467"/>
+<edge source="3315" target="C0023467"/>
+<edge source="3315" target="6774"/>
+<edge source="3315" target="3845"/>
+<edge source="3315" target="7157"/>
+<edge source="3315" target="2623"/>
+<edge source="3315" target="4609"/>
+<edge source="3315" target="2335"/>
+<edge source="3315" target="4869"/>
+<edge source="11168" target="C0023467"/>
+<edge source="11168" target="4869"/>
+<edge source="11168" target="861"/>
+<edge source="6774" target="C0023467"/>
+<edge source="6774" target="2624"/>
+<edge source="6774" target="302"/>
+<edge source="6774" target="3315"/>
+<edge source="6774" target="2623"/>
+<edge source="6774" target="GO:0045893"/>
+<edge source="6774" target="GO:0045944"/>
+<edge source="335" target="DB01593"/>
+<edge source="335" target="351"/>
+<edge source="335" target="1191"/>
+<edge source="335" target="3507"/>
+<edge source="335" target="2335"/>
+<edge source="348" target="DB01593"/>
+<edge source="348" target="351"/>
+<edge source="348" target="2"/>
+</graph></graphml>
