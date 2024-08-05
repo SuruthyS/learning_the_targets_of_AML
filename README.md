@@ -15,8 +15,9 @@ This repository consists of the data and code used in the manuscript "Learning t
 ## Code
 
 ### Detecting_Proteins_and Biological_Functions_in_Prioritized_Communities
-
+Code that is used to anzlyze the results from CoDA (https://github.com/snap-stanford/snap/tree/master/examples/coda
+) and CRank (https://github.com/mims-harvard/crank) to count the frequency of the 
 
 ### using_the_multiscale_interactome
-Code that is used to run the multiscale interactome network (https://github.com/snap-stanford/multiscale-interactome) and analyzing the resutls acute myeloid leukemia.
+Code that is used to run the multiscale interactome network (https://github.com/snap-stanford/multiscale-interactome) and analyzing the resutls for acute myeloid leukemia.
 
